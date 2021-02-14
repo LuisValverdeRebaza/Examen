@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Evaluacion"
+    }
+  },
+  "defaultProject": "Evaluacion",
+  "cli": {
+    "analytics": "70f79572-bf09-4d14-960f-ad7b21693945"
+  }
 }
